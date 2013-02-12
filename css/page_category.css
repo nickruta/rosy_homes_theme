@@ -1,0 +1,6 @@
+.product-jump { line-height: 1.5; display: block; padding: 10px 0; width: 325px; text-align: center;
+	            border: 1px solid #ccc; float: left; margin: 0 10px 10px 0; }
+.product-jump:hover { text-decoration: none; background: #eee; }
+.product-jump .product-title { display: block; font-size: 18px; color: #333; }
+
+.price { font-size: 14px; line-height:1.5; text-align:center; }

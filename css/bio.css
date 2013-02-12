@@ -1,0 +1,17 @@
+#bio
+{float: left;
+ max-width: 500px;
+font-size:12pt;
+color:#000;
+}
+
+#sidebar-bio
+
+{float: right;
+ max-width:325px;
+ right-padding:10px;
+ left-padding:10px;
+font-size:12pt;
+color:#000;
+			 
+}
